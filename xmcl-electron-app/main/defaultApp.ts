@@ -5,8 +5,8 @@ import { darkIco, darkIcon, darkTray, lightIco, lightIcon, lightTray } from './u
 import { HAS_DEV_SERVER } from './constant'
 
 const manifest: InstalledAppManifest = {
-  name: 'KeyStone Launcher',
-  description: 'The default launcher UI',
+  name: 'NightwolfMC Launcher',
+  description: 'The default launcher UI for NightwolfMC Servers',
   url: HAS_DEV_SERVER ? defaultUrl : 'http://app/index.html',
   backgroundColor: '0x424242',
   minWidth: 800,
