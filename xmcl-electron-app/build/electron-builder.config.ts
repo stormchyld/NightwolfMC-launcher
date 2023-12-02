@@ -5,7 +5,7 @@ import { Configuration } from 'electron-builder'
 dotenv()
 
 export const config = {
-  productName: 'X Minecraft Launcher',
+  productName: 'NightwolfMC Launcher',
   appId: 'xmcl',
   directories: {
     output: 'build/output',
@@ -20,8 +20,8 @@ export const config = {
   // set this to your own repo!
   publish: [{
     provider: 'github',
-    owner: 'voxelum',
-    repo: 'x-minecraft-launcher',
+    owner: 'stormchyld',
+    repo: 'NIghtwolfMC-launcher',
   }],
   files: [{
     from: 'dist',
