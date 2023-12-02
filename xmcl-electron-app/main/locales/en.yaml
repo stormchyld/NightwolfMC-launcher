@@ -16,6 +16,6 @@ task:
   continue: View in Launcher
   fail: One Task Failed
   success: One Task Success
-title: X Minecraft Launcher
+title: NightwolfMC Launcher
 urlFailed: Unknown url {url}. Please check your url or contact developer!
 urlSuccess: Succeed! Now you can close this window and return to the launcher!
